@@ -1,0 +1,36 @@
+# Compiled files
+*.class
+*.o
+*.pyc
+
+# Dependency directories
+node_modules/
+vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build output
+build/
+dist/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Configuration files with sensitive information
+config.ini
+secrets.yaml
+
+# Personal files
+notes.txt
+personal.docx
